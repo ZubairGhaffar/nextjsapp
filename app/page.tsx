@@ -4,6 +4,7 @@ import StaffSection from '@/components/StaffSection';
 import StaffList from '@/components/StaffList';
 
 export default function Home() {
+  console.log("abf");
   return (
     <AppLayout>
       <Header />
